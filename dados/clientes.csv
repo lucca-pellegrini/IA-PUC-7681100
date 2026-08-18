@@ -1,0 +1,256 @@
+nome,idade,cidade,renda,telefone
+Bruno Silva,29,Betim,2695.33,(31) 91093-0434
+Nicolas Nascimento,40,Nova Lima,5450.63,(31) 90609-0840
+Bruno Oliveira,50,Nova Lima,4029.51,
+Vitória Pereira,65,Belo Horizonte,3340.45,(31) 97211-9197
+Tiago Pereira,69,Belo Horizonte,3797.85,(31) 92944-2279
+Vitória Souza,56,Contagem,2268.16,(31) 98532-4154
+Lucas Almeida,61,Belo Horizonte,2954.37,(31) 94579-5577
+Hugo Almeida,59,Betim,2575.4,(31) 98679-9083
+Fábio Rodrigues,59,Nova Lima,2934.77,(31) 92517-1993
+Bruno Almeida,31,Contagem,2396.37,(31) 95335-5449
+Vitória Oliveira,50,Belo Horizonte,2366.3,(31) 97007-9977
+Marina Pereira,60,Betim,2652.01,(31) 96416-6949
+Otávio Silva,63,Belo Horizonte,2402.03,(31) 97616-3680
+Sofia Nascimento,69,Contagem,1532.52,(31) 90332-7139
+Rafael Pereira,36,Nova Lima,2668.91,
+Gabriela Rodrigues,43,Belo Horizonte,2064.37,(31) 94099-5670
+Carla Pereira,29,Betim,1050.4,(31) 96709-1727
+Hugo Oliveira,65,Contagem,3244.71,(31) 91948-7302
+Carla Silva,53,Contagem,3183.64,(31) 95186-4382
+Tiago Oliveira,24,Contagem,2231.87,(31) 91015-5136
+Lucas Oliveira,37,Betim,2605.79,(31) 92194-6236
+Tiago Rodrigues,49,Betim,1481.18,(31) 96626-8776
+Ana Costa,18,Contagem,2485.52,(31) 98648-3738
+Rafael Rodrigues,22,Betim,2513.65,(31) 90250-8588
+Lucas Almeida,67,Contagem,1032.26,
+Ana Silva,54,Betim,2665.02,(31) 97390-7618
+Hugo Oliveira,51,Betim,1832.62,(31) 93191-0025
+Tiago Silva,57,Nova Lima,3817.82,(31) 96010-2734
+Sofia Pereira,52,Contagem,2749.38,(31) 94178-1607
+Bruno Costa,36,Belo Horizonte,3882.98,(31) 96236-7160
+Carla Rodrigues,68,Belo Horizonte,3519.77,(31) 93660-6041
+Hugo Costa,42,Nova Lima,6257.1,(31) 95099-7912
+Sofia Silva,70,Nova Lima,4150.96,
+Diego Rodrigues,33,Nova Lima,2984.48,(31) 94429-0389
+João Oliveira,26,Contagem,2112.37,(31) 90959-2955
+Isabela Lima,21,Contagem,2834.72,(31) 97988-4522
+Paula Almeida,61,Betim,2012.62,(31) 99811-5380
+Otávio Rodrigues,54,Nova Lima,4881.23,(31) 91581-4452
+Isabela Silva,45,Nova Lima,2362.51,(31) 99075-3993
+Sofia Silva,52,Belo Horizonte,3266.77,(31) 95254-8414
+Carla Souza,46,Contagem,2261.61,(31) 94396-6757
+Karina Souza,31,Belo Horizonte,4400.83,(31) 96381-6113
+João Silva,54,Contagem,2536.51,(31) 99377-0065
+Nicolas Lima,64,Contagem,3908.48,(31) 96078-4738
+Vitória Oliveira,67,Contagem,2383.78,(31) 95269-8626
+João Souza,34,Contagem,1265.53,(31) 97757-4183
+Karina Almeida,56,Betim,2326.81,(31) 92258-8922
+Paula Araújo,26,Belo Horizonte,2758.98,(31) 90910-7363
+Tiago Costa,43,Contagem,2267.42,(31) 96653-5489
+Lucas Lima,41,Belo Horizonte,2717.33,(31) 98080-2031
+Tiago Souza,39,Nova Lima,2213.28,(31) 96319-3754
+Tiago Silva,66,Contagem,3003.97,(31) 94553-6316
+Bruno Lima,58,Nova Lima,3082.14,(31) 91049-2156
+João Araújo,50,Nova Lima,6424.88,(31) 93683-5281
+Nicolas Nascimento,37,Betim,2230.83,(31) 95426-4137
+Karina Araújo,67,Contagem,2281.46,(31) 93175-4147
+João Almeida,69,Betim,2864.15,(31) 94958-4026
+Otávio Pereira,38,Belo Horizonte,3970.01,(31) 90553-1713
+Isabela Oliveira,35,Betim,1317.98,(31) 96953-8821
+Sofia Silva,43,Contagem,2101.91,(31) 90483-9042
+Bruno Nascimento,45,Betim,3303.19,(31) 98083-5840
+Isabela Araújo,52,Contagem,2195.93,(31) 95641-3592
+Elisa Pereira,57,Betim,1328.84,(31) 99686-4070
+Nicolas Oliveira,39,Belo Horizonte,2771.93,
+Tiago Almeida,57,Contagem,2792.03,(31) 94570-1575
+Vitória Nascimento,60,Contagem,2392.26,(31) 95779-2492
+Vitória Oliveira,50,Belo Horizonte,2366.3,(31) 97007-9977
+Vitória Almeida,22,Belo Horizonte,2644.05,(31) 90499-0152
+Tiago Lima,25,Belo Horizonte,1496.5,(31) 94869-0069
+Tiago Almeida,57,Contagem,2792.03,(31) 94570-1575
+Fábio Lima,48,Nova Lima,1677.74,(31) 92099-8420
+Paula Silva,65,Nova Lima,2435.56,(31) 95586-0186
+Elisa Souza,47,Contagem,1691.39,(31) 96299-5194
+Sofia Souza,59,Belo Horizonte,3173.79,(31) 96828-8323
+Marina Silva,34,Belo Horizonte,3298.98,(31) 97381-6532
+Marina Almeida,69,Belo Horizonte,1813.76,(31) 99828-3107
+Otávio Almeida,29,Nova Lima,4667.03,(31) 92701-0790
+Ana Silva,64,Belo Horizonte,2323.25,(31) 97808-5657
+Fábio Lima,21,Contagem,2152.32,(31) 92744-4417
+Elisa Pereira,43,Nova Lima,3997.27,(31) 94973-3795
+Marina Souza,40,Betim,2169.73,(31) 94262-3422
+Rafael Rodrigues,58,Nova Lima,4083.89,(31) 99648-2696
+Sofia Lima,36,Belo Horizonte,3156.54,
+Isabela Souza,47,Contagem,1602.21,(31) 90037-6468
+Hugo Araújo,50,Contagem,2636.94,(31) 92139-0103
+Ana Souza,65,Betim,2094.47,(31) 93958-2107
+Karina Lima,42,Nova Lima,5839.19,(31) 93871-6068
+Gabriela Nascimento,18,Belo Horizonte,3822.99,(31) 94144-0367
+Diego Oliveira,31,Belo Horizonte,3257.15,(31) 96704-5422
+Gabriela Silva,32,Belo Horizonte,4488.92,
+Nicolas Araújo,54,Betim,3509.38,
+Sofia Lima,58,Nova Lima,3938.47,
+Sofia Almeida,66,Belo Horizonte,3170.86,(31) 92271-5146
+Fábio Lima,38,Nova Lima,5804.14,(31) 90581-9452
+Bruno Rodrigues,43,Betim,2052.32,(31) 96220-9315
+Carla Oliveira,55,Nova Lima,3344.55,(31) 91684-0396
+Rafael Almeida,70,Belo Horizonte,2125.44,(31) 91034-4894
+Sofia Rodrigues,42,Nova Lima,2212.92,(31) 99333-6291
+Gabriela Almeida,56,Contagem,2423.71,(31) 93808-0777
+Rafael Nascimento,63,Betim,1793.19,(31) 96304-2294
+Nicolas Costa,68,Contagem,1795.25,(31) 93225-1561
+Paula Pereira,56,Contagem,1651.35,(31) 92955-0894
+Lucas Araújo,47,Contagem,2632.97,(31) 90503-9355
+Sofia Rodrigues,43,Nova Lima,2964.29,(31) 95225-3900
+Fábio Oliveira,44,Nova Lima,2953.1,(31) 96593-2449
+Otávio Lima,44,Betim,2483.62,(31) 93408-8642
+Diego Lima,50,Contagem,2849.15,(31) 90393-4556
+Nicolas Oliveira,42,Betim,2487.82,(31) 96760-3651
+Tiago Souza,65,Nova Lima,5119.31,(31) 95896-5173
+Carla Costa,47,Nova Lima,4085.76,(31) 93246-8272
+Lucas Nascimento,44,Betim,2495.97,(31) 93893-1484
+Bruno Oliveira,61,Belo Horizonte,3992.41,(31) 98195-2790
+Karina Almeida,35,Betim,2448.2,(31) 91586-0947
+Karina Souza,19,Nova Lima,3576.95,(31) 99161-0671
+Nicolas Nascimento,40,Nova Lima,5450.63,(31) 90609-0840
+Diego Nascimento,59,Contagem,1841.08,(31) 93831-5525
+Karina Silva,37,Contagem,1980.71,(31) 98985-9242
+Fábio Pereira,54,Betim,3804.15,(31) 96202-2598
+Otávio Silva,44,Betim,2931.08,(31) 97000-6763
+Ana Araújo,57,Belo Horizonte,4992.37,
+Paula Costa,34,Betim,2204.77,(31) 98347-0028
+Isabela Araújo,60,Belo Horizonte,2311.48,(31) 94562-3858
+João Rodrigues,66,Belo Horizonte,2789.98,(31) 97488-6093
+Tiago Pereira,67,Betim,3150.91,(31) 99420-4656
+João Nascimento,55,Contagem,2510.24,
+Carla Nascimento,47,Betim,2845.57,(31) 93699-9590
+Marina Lima,26,Contagem,2346.79,(31) 98103-5189
+Ana Costa,55,Contagem,2574.61,(31) 90280-4488
+Ana Oliveira,48,Betim,1596.4,(31) 99586-1700
+Bruno Pereira,59,Contagem,2538.03,(31) 93294-8131
+Marina Costa,56,Betim,3624.49,(31) 96062-5229
+Marina Nascimento,47,Contagem,2010.71,(31) 91687-8437
+Otávio Oliveira,52,Belo Horizonte,944.98,(31) 93426-4011
+Vitória Almeida,26,Betim,1890.09,
+Nicolas Lima,24,Nova Lima,3926.14,(31) 99886-8983
+Paula Costa,55,Nova Lima,4680.52,(31) 95882-1760
+Karina Silva,41,Contagem,1823.45,(31) 92484-4438
+Lucas Lima,40,Betim,1669.82,(31) 96286-3591
+Elisa Pereira,43,Nova Lima,3997.27,(31) 94973-3795
+Vitória Souza,61,Belo Horizonte,3301.52,(31) 96456-8620
+Elisa Pereira,68,Contagem,3423.81,(31) 92056-0111
+João Souza,61,Betim,3399.77,(31) 90183-6370
+Lucas Souza,66,Betim,3167.11,
+Vitória Oliveira,44,Belo Horizonte,3099.92,(31) 92192-4791
+Diego Silva,22,Betim,2582.93,(31) 98308-6736
+Diego Lima,68,Belo Horizonte,3030.85,(31) 94104-5480
+Otávio Costa,59,Belo Horizonte,3268.22,(31) 95004-9087
+Bruno Oliveira,63,Betim,2812.34,(31) 91128-0459
+Gabriela Souza,38,Belo Horizonte,2625.24,(31) 90121-6175
+Vitória Rodrigues,22,Nova Lima,2513.5,(31) 94767-8007
+Paula Souza,24,Belo Horizonte,2594.61,
+Gabriela Lima,53,Betim,2022.48,(31) 91594-4933
+João Silva,19,Belo Horizonte,3716.71,(31) 90005-3479
+Vitória Araújo,63,Belo Horizonte,1549.81,(31) 94797-1649
+Diego Pereira,20,Betim,1776.34,(31) 92604-7523
+Isabela Araújo,52,Contagem,2195.93,(31) 95641-3592
+Tiago Rodrigues,49,Betim,1481.18,(31) 96626-8776
+Paula Rodrigues,39,Betim,2139.87,(31) 99354-1317
+Nicolas Costa,22,Contagem,2180.11,(31) 97227-2442
+Paula Almeida,27,Nova Lima,2161.41,(31) 97978-5150
+Marina Souza,32,Contagem,2731.3,(31) 99791-1339
+Bruno Rodrigues,43,Betim,2052.32,(31) 96220-9315
+Isabela Almeida,50,Belo Horizonte,3294.45,(31) 91564-0837
+Elisa Almeida,62,Belo Horizonte,1995.58,(31) 96505-5675
+Sofia Silva,46,Belo Horizonte,3306.94,(31) 99561-3430
+Diego Pereira,69,Nova Lima,4823.33,(31) 94118-2645
+Hugo Oliveira,18,Contagem,2529.53,(31) 94815-3652
+Carla Oliveira,33,Belo Horizonte,2989.36,(31) 95764-4619
+Rafael Nascimento,56,Betim,3515.15,(31) 96030-6934
+Ana Costa,57,Nova Lima,5102.91,(31) 93518-1590
+Carla Araújo,32,Betim,1984.48,(31) 94069-3850
+Isabela Lima,46,Nova Lima,5157.75,(31) 98732-9626
+Marina Costa,37,Nova Lima,4508.76,(31) 96601-4097
+Nicolas Silva,57,Contagem,2334.62,(31) 95178-6993
+Paula Costa,54,Belo Horizonte,1829.0,(31) 92697-3488
+Rafael Costa,52,Nova Lima,4144.24,(31) 90407-7765
+Vitória Lima,45,Belo Horizonte,2475.28,(31) 98088-2368
+Sofia Pereira,68,Nova Lima,3593.57,(31) 90813-6229
+Diego Costa,44,Nova Lima,5037.79,(31) 98113-7102
+Nicolas Almeida,61,Betim,2381.66,(31) 90982-5954
+Sofia Nascimento,68,Nova Lima,4566.69,(31) 93270-1700
+Fábio Almeida,39,Betim,1145.64,(31) 93781-7020
+Karina Souza,31,Belo Horizonte,4400.83,(31) 96381-6113
+Nicolas Rodrigues,36,Betim,1541.47,(31) 96281-5715
+Diego Souza,59,Contagem,2195.39,(31) 95135-8742
+Hugo Oliveira,34,Betim,2609.7,(31) 90197-4516
+Elisa Nascimento,58,Nova Lima,4722.08,(31) 92870-2684
+Fábio Lima,21,Contagem,2152.32,(31) 92744-4417
+Otávio Costa,34,Nova Lima,3201.15,(31) 91850-6882
+Ana Lima,29,Contagem,2088.66,
+Elisa Souza,24,Belo Horizonte,2476.45,(31) 92489-6602
+Sofia Pereira,60,Belo Horizonte,3638.9,(31) 95853-2540
+Nicolas Silva,23,Contagem,2088.75,(31) 99087-5932
+Karina Souza,20,Contagem,1061.09,(31) 97760-7943
+Isabela Souza,47,Contagem,1602.21,(31) 90037-6468
+Rafael Silva,36,Nova Lima,2501.08,(31) 91146-5201
+Fábio Rodrigues,57,Contagem,3107.03,(31) 99221-9038
+Tiago Nascimento,22,Betim,2111.34,(31) 96207-3835
+Elisa Almeida,41,Contagem,3053.23,(31) 94493-2675
+Marina Nascimento,29,Betim,2144.22,(31) 92110-7907
+Gabriela Souza,61,Nova Lima,4397.68,(31) 99721-1281
+Paula Costa,63,Belo Horizonte,3467.68,(31) 91073-1609
+Karina Nascimento,34,Nova Lima,4490.04,
+Karina Pereira,42,Contagem,2318.84,(31) 94313-5621
+Ana Costa,57,Nova Lima,5102.91,(31) 93518-1590
+Marina Lima,43,Nova Lima,4997.1,(31) 99873-3338
+Sofia Silva,43,Contagem,2101.91,(31) 90483-9042
+Rafael Silva,59,Betim,2400.59,(31) 96107-5746
+João Souza,21,Belo Horizonte,2792.61,(31) 90358-2149
+Lucas Araújo,46,Belo Horizonte,2677.09,
+Rafael Souza,67,Nova Lima,2785.34,(31) 99076-5393
+Sofia Silva,37,Nova Lima,5089.26,(31) 98898-7667
+Otávio Araújo,19,Nova Lima,3908.68,(31) 92485-5833
+Gabriela Costa,63,Belo Horizonte,4150.57,(31) 91581-6586
+Fábio Rodrigues,60,Nova Lima,5209.48,(31) 97052-8748
+Diego Costa,62,Nova Lima,3453.02,(31) 91034-5871
+Paula Silva,34,Contagem,1705.37,(31) 91881-7012
+João Nascimento,56,Nova Lima,3516.86,(31) 96561-3335
+Diego Souza,57,Nova Lima,3753.46,(31) 95579-7372
+Fábio Costa,21,Betim,2192.15,(31) 90411-0637
+Ana Pereira,54,Belo Horizonte,3140.4,(31) 97566-0220
+Otávio Silva,47,Contagem,1866.0,
+Fábio Silva,33,Nova Lima,5190.06,(31) 95794-3851
+Gabriela Araújo,38,Belo Horizonte,4417.51,(31) 94220-0172
+Carla Nascimento,42,Nova Lima,4539.23,(31) 94887-9731
+Rafael Rodrigues,70,Belo Horizonte,2044.57,(31) 96983-1790
+Karina Silva,67,Belo Horizonte,3253.89,(31) 99152-4281
+Bruno Rodrigues,49,Belo Horizonte,3811.89,(31) 97853-5044
+Tiago Nascimento,34,Contagem,2863.28,(31) 92042-6212
+Carla Souza,65,Belo Horizonte,3201.1,(31) 97409-8450
+João Souza,18,Betim,2207.39,(31) 96462-6015
+Isabela Araújo,27,Betim,3649.56,(31) 98151-8676
+Bruno Souza,20,Betim,3216.33,(31) 96716-0096
+Marina Araújo,40,Betim,3572.27,(31) 94942-0436
+Sofia Lima,30,Contagem,1510.59,(31) 99895-2307
+Bruno Nascimento,57,Nova Lima,4324.33,(31) 95461-6783
+Gabriela Araújo,70,Betim,3135.03,(31) 93870-8459
+Isabela Nascimento,26,Betim,2552.09,(31) 94195-8329
+Carla Araújo,24,Nova Lima,3112.13,(31) 98652-1789
+Isabela Pereira,32,Belo Horizonte,2102.35,
+Vitória Oliveira,45,Contagem,2872.06,(31) 91201-8117
+Karina Costa,24,Contagem,2838.88,(31) 91965-2604
+Nicolas Silva,23,Contagem,2088.75,(31) 99087-5932
+Rafael Costa,61,Belo Horizonte,3443.05,(31) 91413-4519
+Rafael Silva,34,Betim,2562.73,(31) 98123-6409
+Carla Almeida,42,Nova Lima,4125.51,(31) 97079-9948
+Gabriela Nascimento,54,Contagem,2171.61,
+Nicolas Lima,64,Contagem,3908.48,(31) 96078-4738
+Ana Pereira,19,Betim,2362.17,(31) 98462-3203
+Carla Souza,39,Nova Lima,5064.01,(31) 90629-0247
+Carla Rodrigues,47,Contagem,3169.59,(31) 92476-5197
+Sofia Rodrigues,42,Nova Lima,2212.92,(31) 99333-6291
+Tiago Rodrigues,22,Belo Horizonte,3032.51,(31) 92217-8149
+João Costa,19,Nova Lima,5054.2,(31) 96729-4185
+Fábio Almeida,66,Betim,1714.68,(31) 95959-2191
